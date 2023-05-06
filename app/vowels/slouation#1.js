@@ -9,4 +9,4 @@ function vol(str) {
     return con;
 
 }
-vol();
+vol()
