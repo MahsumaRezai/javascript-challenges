@@ -4,7 +4,7 @@ function minval(...arr) {
             if (b > a) {
                 return b;
             }
-            else if (b < a){
+            else if (b < a) {
                 return a;
             }
         })
